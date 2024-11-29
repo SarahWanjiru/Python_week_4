@@ -1,7 +1,5 @@
 # Python_week_4
 Week 4: File Handling and Exception Handling
-# Python_week_4
-Week 4: File Handling and Exception Handling
 
 # File Read & Write Challenge 🖋️ & Error Handling Lab 🧪
 
